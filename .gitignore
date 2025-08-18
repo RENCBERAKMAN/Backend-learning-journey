@@ -1,0 +1,50 @@
+# Maven
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+!.mvn/wrapper/maven-wrapper.properties
+
+# IDE / editor
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+*.class
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment / config
+*.env
+*.properties
+application.properties
+application-*.properties
+application.yml
+application-*.yml
+secret-*.yml
+
+# Build
+/build/
+out/
+
+# Spring Boot / temp
+spring.log
+logs/
+
+# JWT / Keys / sensitive info
+*.jks
+*.keystore
+*.p12
+*.pem
+*.crt
+*.key
+
+# Node / frontend (eğer varsa)
+node_modules/
+dist/
+
+# Others
+*.tmp
+*.swp

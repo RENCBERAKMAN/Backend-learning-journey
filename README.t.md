@@ -3,7 +3,7 @@
   <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-coding-web-development-flaticons-lineal-color-flat-icons.png" alt="Coding Icon" />
 </p>
 
-![Backend](https://img.shields.io/badge/backend-Express.js-blue?style=flat-square)
+
 ![Status](https://img.shields.io/badge/status-active-brightgreen?style=flat-square)
 
 # Microservices Öğrenme Projesi 🚀

@@ -1,4 +1,4 @@
-# Sitenin Backend Yolculuğu
+# BACKEND
 <p align="center">
   <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-coding-web-development-flaticons-lineal-color-flat-icons.png" alt="Coding Icon" />
 </p>
